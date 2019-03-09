@@ -1,0 +1,19 @@
+# GIMP tool preset file
+
+(stock-id "gimp-tool-text")
+(name "Texto")
+(tool-options "GimpTextOptions"
+    (tool "gimp-text-tool")
+    (foreground (color-rgb 1.000000 1.000000 1.000000))
+    (palette "Default")
+    (font-size 56.000000)
+    (indent -3.000000))
+(use-fg-bg no)
+(use-brush no)
+(use-dynamics no)
+(use-gradient no)
+(use-pattern no)
+(use-palette yes)
+(use-font yes)
+
+# end of GIMP tool preset file

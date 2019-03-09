@@ -1,0 +1,16 @@
+HOW INSTALL THE SCRIPT
+
+You may move them in your script folder usually in 
+VISTA  C: /Users/yourname/.gimp/script
+XP C:/Documents and Settings/yourname/script
+
+You may also, as alternative move the folder whatever you like and
+ 
+1 load gimp
+2 Enter in Edit/Preferences/Folder/script
+3 Click there "NEW FOLDER" Icon and then the SEARCH button
+  (labeled with 3 points "..." ) to add the path for the folder
+Then you may just refresh the script (From Filter/script fu ) or
+reload GIMP
+
+
